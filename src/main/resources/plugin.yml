@@ -2,6 +2,7 @@ name: PlayBox
 version: '${project.version}'
 main: me.zuveno.playbox.PlayBox
 api-version: '1.13'
+soft-depend: [NoteBlockAPI]
 load: STARTUP
 authors: [UnknownZuVEnO]
 description: This plugin allows you to play Vanilla and Noteblock music.
